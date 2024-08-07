@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 listing:
-  contents: posts
+  contents: https://fahadbinhashim2005.github.io/My-Blog/
   sort: "date desc"
   type: default
   categories: true
