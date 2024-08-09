@@ -12,7 +12,7 @@ website:
         text: Papers
       - href: workshops.qmd
         text: Workshops
-      - href: <a href="https://fahadbinhashim2005.github.io/My-Blog/" target="_blank">https://fahadbinhashim2005.github.io/My-Blog/</a>
+      - href: blog.qmd
         text: Blog
       - about.qmd
   sidebar:
