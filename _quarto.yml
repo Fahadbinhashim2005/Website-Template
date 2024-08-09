@@ -14,7 +14,8 @@ website:
         text: Workshops
       - href: blog.qmd
         text: Blog
-      - about.qmd
+      - href: about.qmd
+        text: About
   sidebar:
     style: "docked"
     logo: "./images/user_image.png"
@@ -24,9 +25,9 @@ website:
       - icon: github
         text: Github
         url: https://github.com
-      - icon: twitter
-        text: Twitter
-        url: https://twitter.com
+      - icon: linkedin
+        text: linkedin
+        url: https://www.linkedin.com/in/fahad-bin-hashim-6769b331b/
       - icon: Email
       - text: "Email"
         url: mailto:siju.swamy@saintgits.org
