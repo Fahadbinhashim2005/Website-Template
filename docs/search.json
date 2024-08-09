@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops Attended",
+    "section": "",
+    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+  },
+  {
+    "objectID": "posts/New_Thoughts/index.html",
+    "href": "posts/New_Thoughts/index.html",
+    "title": "Unleashing the Power of Quarto: Transforming Content Creation for the Modern Professional",
+    "section": "",
+    "text": "Quarto is revolutionizing the way we create and share content by offering a powerful, open-source platform for crafting high-quality documents, presentations, websites, and blogs. Built on the robust Pandoc engine, Quarto seamlessly integrates Markdown, LaTeX, and R Markdown, allowing users to combine text, code, and output in a single, cohesive document. Whether you’re a researcher, data scientist, or technical writer, Quarto simplifies the process of creating dynamic reports, academic papers, and professional websites, supporting formats like HTML, PDF, and Microsoft Word. Its ability to incorporate R, Python, or Julia code chunks directly into your documents ensures that your content is both versatile and interactive.\nWhat sets Quarto apart is its extensive customization and extensibility. You can easily add custom styles, create reusable templates, and extend functionality with plugins, making it a perfect fit for any project. For data-driven content, Quarto enables the inclusion of interactive visualizations and dynamic updates, ensuring that your documents remain relevant and up-to-date. Furthermore, its support for reproducible research practices enhances the transparency and credibility of your work. Whether you’re crafting a simple blog post or developing a comprehensive technical report, Quarto elevates your document creation process, delivering polished, professional results that stand out in any field."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The Rise of VFX in the Indian Film Industry: A Game-Changer for Indian Cinema\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 7, 2024\n\n\nCyber\n\n\n\n\n\n\n\n\n\n\n\n\nഎൻ്റെ പ്രതീക്ഷകൾ\n\n\n\n\n\n\nviews\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nCyber\n\n\n\n\n\n\n\n\n\n\n\n\nUnleashing the Power of Quarto: Transforming Content Creation for the Modern Professional\n\n\n\n\n\n\nNew Learning\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nCyber\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My Personal Webpage",
@@ -33,5 +68,26 @@
     "title": "My Personal Webpage",
     "section": "🌐 Connect with Me",
     "text": "🌐 Connect with Me\nI’m always excited to connect with fellow engineers and VFX Artists. Let’s innovate together!\n\n📫 How to reach me…\n\nEmail: fahadbinhashim03@gmail.com.\nDiscord: https://discordapp.com/users/909331311779516426.\nInstagram:https://www.instagram.com/im._.f_4_h_4_d/.\n\n\nThanks for stopping by!"
+  },
+  {
+    "objectID": "posts/My Hopes/index.html",
+    "href": "posts/My Hopes/index.html",
+    "title": "എൻ്റെ പ്രതീക്ഷകൾ",
+    "section": "",
+    "text": "ഊർജ്ജസ്വലമായ കഥപറച്ചിലിനും വർണ്ണാഭമായ ദൃശ്യങ്ങൾക്കും പേരുകേട്ട ഇന്ത്യൻ ചലച്ചിത്ര വ്യവസായം, വിഷ്വൽ ഇഫക്‌റ്റുകളുടെ (വിഎഫ്എക്‌സ്) മുന്നേറ്റത്തോടെ ഒരു പരിവർത്തന യുഗത്തിൻ്റെ കൊടുമുടിയിലാണ്. സാങ്കേതികവിദ്യ പുരോഗമിക്കുന്നതിനനുസരിച്ച്, സിനിമകൾ സൃഷ്ടിക്കുന്നതിലും അനുഭവിച്ചറിയുന്നതിലും വിപ്ലവം സൃഷ്ടിക്കാൻ VFX സജ്ജീകരിച്ചിരിക്കുന്നു. വിഷ്വൽ സ്റ്റോറി ടെല്ലിംഗിന് വർദ്ധിച്ചുവരുന്ന ഊന്നൽ നൽകിക്കൊണ്ട്, ഇന്ത്യൻ സിനിമയെ പുതിയ ഉയരങ്ങളിലേക്ക് ഉയർത്താനുള്ള വിഎഫ്എക്‌സിന് വികസിച്ചുകൊണ്ടിരിക്കുന്ന സാധ്യതയുണ്ട്. ഈ പരിണാമം സിനിമാറ്റിക് അനുഭവം മെച്ചപ്പെടുത്താൻ മാത്രമല്ല, സർഗ്ഗാത്മകമായ ആവിഷ്കാരത്തിനും പുതുമയ്ക്കും പുതിയ വഴികൾ തുറക്കാനും വാഗ്ദാനം ചെയ്യുന്നു.\nമുന്നോട്ട് നോക്കുമ്പോൾ, വെർച്വൽ റിയാലിറ്റി (വിആർ), ഓഗ്‌മെൻ്റഡ് റിയാലിറ്റി (എആർ), ആർട്ടിഫിഷ്യൽ ഇൻ്റലിജൻസ് (എഐ) തുടങ്ങിയ അത്യാധുനിക സാങ്കേതികവിദ്യകളുടെ വിഎഫ്എക്‌സ് ഉൽപ്പാദനത്തിൽ സംയോജിപ്പിക്കുന്നതിൽ ഞാൻ ആവേശത്തിലാണ്. ഉയർന്ന നിലവാരമുള്ള ഇഫക്‌റ്റുകൾ കൂടുതൽ ആക്‌സസ് ചെയ്യാവുന്നതും താങ്ങാവുന്ന വിലയുള്ളതുമാക്കി മാറ്റുകയും വിഎഫ്എക്‌സ് പ്രക്രിയകൾ കാര്യക്ഷമമാക്കുകയും ചെയ്യുമെന്ന് ഈ മുന്നേറ്റങ്ങൾ പ്രതീക്ഷിക്കുന്നു. VFX ടൂളുകൾ കൂടുതൽ ജനാധിപത്യവൽക്കരിക്കപ്പെടുമ്പോൾ, സ്വതന്ത്ര ചലച്ചിത്ര നിർമ്മാതാക്കൾക്കും ചെറിയ സ്റ്റുഡിയോകൾക്കും നിരോധിത ചെലവുകളില്ലാതെ കാഴ്ചയിൽ അതിശയിപ്പിക്കുന്ന ഉള്ളടക്കം സൃഷ്ടിക്കാനുള്ള അവസരം ലഭിക്കും. ഈ മാറ്റത്തിന് വൈവിധ്യമാർന്ന പ്രോജക്ടുകൾ പ്രോത്സാഹിപ്പിക്കാനും പുതിയതും ഭാവനാത്മകവുമായ ആശയങ്ങൾ ഇന്ത്യൻ സിനിമയുടെ മുൻനിരയിലേക്ക് കൊണ്ടുവരാനും കഴിയും.\nഉപസംഹാരമായി, ഇന്ത്യൻ ചലച്ചിത്ര വ്യവസായത്തിലെ വിഎഫ്എക്‌സിൻ്റെ ഭാവി വമ്പിച്ച വാഗ്ദാനങ്ങൾ നൽകുന്നു. ഞങ്ങൾ പുതിയ സാങ്കേതികവിദ്യകൾ സ്വീകരിക്കുകയും കൂടുതൽ ആഗോള സഹകരണം വളർത്തുകയും ചെയ്യുമ്പോൾ, ഇന്ത്യൻ സിനിമ മെച്ചപ്പെടുത്തിയ കഥപറച്ചിലിൽ നിന്നും നൂതനമായ വിഷ്വൽ ഇഫക്റ്റുകളിൽ നിന്നും പ്രയോജനം നേടാൻ ഒരുങ്ങുകയാണ്. ഈ സാധ്യതകൾ സാക്ഷാത്കരിക്കുന്നതിൽ പ്രതിഭയിലും പരിശീലനത്തിലും നിക്ഷേപം നിർണായകമാകും, സർഗ്ഗാത്മകതയുടെ അതിരുകൾ മറികടക്കാൻ ഇന്ത്യൻ ചലച്ചിത്ര പ്രവർത്തകരും വിഎഫ്എക്സ് കലാകാരന്മാരും സജ്ജരാണെന്ന് ഉറപ്പാക്കും. ഈ മുന്നേറ്റങ്ങളോടെ, ഇന്ത്യൻ ചലച്ചിത്ര വ്യവസായത്തിന് ഊർജസ്വലമായ ഒരു ഭാവിക്കായി കാത്തിരിക്കാം, അവിടെ അത്യാധുനിക വിഷ്വൽ ഇഫക്‌റ്റുകളിലൂടെ സിനിമയുടെ മാന്ത്രികത തുടർച്ചയായി പുനർനിർവചിക്കപ്പെടുന്നു."
+  },
+  {
+    "objectID": "posts/VFX/index.html",
+    "href": "posts/VFX/index.html",
+    "title": "The Rise of VFX in the Indian Film Industry: A Game-Changer for Indian Cinema",
+    "section": "",
+    "text": "In recent years, the Indian film industry has experienced a transformative shift, largely driven by the rise of visual effects (VFX). No longer just a support tool, VFX has become integral to storytelling, enabling filmmakers to bring their most ambitious ideas to life. This revolution is evident in the success of recent blockbuster films, where VFX plays a starring role. Let’s dive into how VFX has risen in prominence and how recent movies are shaping the future of Indian cinema."
+  },
+  {
+    "objectID": "posts/VFX/index.html#vfx-in-mollywood-industry",
+    "href": "posts/VFX/index.html#vfx-in-mollywood-industry",
+    "title": "The Rise of VFX in the Indian Film Industry: A Game-Changer for Indian Cinema",
+    "section": "VFX in mollywood industry",
+    "text": "VFX in mollywood industry\n\nPerhaps the most significant recent example of VFX in Malayalam cinema is Minnal Murali, a superhero film directed by Basil Joseph. The film’s story required extensive visual effects to depict the protagonist’s superpowers, and the VFX work was widely acclaimed. Minnal Murali set a new standard for what Malayalam cinema could achieve with visual effects, and its success both in India and internationally underscored the growing importance of VFX in the industry."
   }
 ]
