@@ -1,17 +1,38 @@
 [
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops Attended",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
     "section": "",
-    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+    "text": "Hello! I’m Fahad Bin Hashim, an Engineering student at Saintgits College Of Engineering,Kottayam,Kerala,India. This is my personal website where I share my projects, and experiences. Dive in to explore my journey in engineering!"
   },
   {
-    "objectID": "posts/post.html",
-    "href": "posts/post.html",
-    "title": "Another blogpost example",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "My Personal Webpage",
+    "section": "🚀 About Me",
+    "text": "🚀 About Me\nI’m currently S3 Computer Science Engineering student at Saintgits College Of Engineering,Kottayam,Kerala,India. My interests lie in AI and related areas and I likes to maintain my passion of VFX and Animation along with my B-Tech Degree."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "My Personal Webpage",
+    "section": "📚 Education",
+    "text": "📚 Education\n\nB-Tech in Computer Science Engineering Saintgits College Of Engineering,Kottayam,Kerala,India. August 2023 - Present CGPA: 7.61/10(till S2)\nHigher Secondary GHSS Amaravathy,Kumily,Kerala,India. July 2021 - March 2023 CGPA: 94.83%\nSecondary St Pius X English School,Kuttikanam,Kerala,India. Pass out:2021 CGPA: 91.8%"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "My Personal Webpage",
+    "section": "🔬 Interests",
+    "text": "🔬 Interests\n\nMachine Learning:I likes to build my career in the field of AI & ML.\n3D Rendering: I’m a beginner in 3D modelling and animation.\nVFX & Animation:I’m learning some Adobe softwares as part of my hobby.\n\n\nGitHub Repositories\n\nComputational Linear Algebra(https://github.com/Fahadbinhashim2005/Computational-Linear-Algebra): This repository contains materials and code related to the Computational Linear Algebra course, which was part of the minor in Computational Mathematics that I took. It includes implementations of various linear algebra algorithms, numerical methods, and problem-solving techniques using Python.\n\n\n\nCourses & Workshops\n\nIntroduction to Machine Learning (ongoing) NPTEL Course by IIT Kharagpur\n\n\n\nI’m currently learning…\n\n3D modelling\nWeb Development\n\n\n\n🤔 I’m looking for help with…\n\nLearning 3D modelling in Blender"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "My Personal Webpage",
+    "section": "🌐 Connect with Me",
+    "text": "🌐 Connect with Me\nI’m always excited to connect with fellow engineers and VFX Artists. Let’s innovate together!\n\n📫 How to reach me…\n\nEmail: fahadbinhashim03@gmail.com\nDiscord: https://discordapp.com/users/909331311779516426\nInstagram:https://www.instagram.com/im._.f_4_h_4_d/\n\n\nThanks for stopping by!"
   },
   {
     "objectID": "papers.html",
@@ -19,40 +40,5 @@
     "title": "Papers",
     "section": "",
     "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Personal Webpage",
-    "section": "",
-    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "posts/another_post.html",
-    "href": "posts/another_post.html",
-    "title": "Blogpost Example",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-  },
-  {
-    "objectID": "posts/post_with_code.html",
-    "href": "posts/post_with_code.html",
-    "title": "A sample work",
-    "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   }
 ]
